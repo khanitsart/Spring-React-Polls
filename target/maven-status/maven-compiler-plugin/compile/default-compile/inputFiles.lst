@@ -1,0 +1,8 @@
+/Users/beatrixiii/Documents/Training/HandonPolls/Spring-React-Polls/src/main/java/com/devmonster/polls/model/Role.java
+/Users/beatrixiii/Documents/Training/HandonPolls/Spring-React-Polls/src/main/java/com/devmonster/polls/model/User.java
+/Users/beatrixiii/Documents/Training/HandonPolls/Spring-React-Polls/src/main/java/com/devmonster/polls/repository/RoleRepository.java
+/Users/beatrixiii/Documents/Training/HandonPolls/Spring-React-Polls/src/main/java/com/devmonster/polls/PollsApplication.java
+/Users/beatrixiii/Documents/Training/HandonPolls/Spring-React-Polls/src/main/java/com/devmonster/polls/model/RoleName.java
+/Users/beatrixiii/Documents/Training/HandonPolls/Spring-React-Polls/src/main/java/com/devmonster/polls/repository/UserRepository.java
+/Users/beatrixiii/Documents/Training/HandonPolls/Spring-React-Polls/src/main/java/com/devmonster/polls/model/audit/DateAudit.java
+/Users/beatrixiii/Documents/Training/HandonPolls/Spring-React-Polls/src/main/java/com/devmonster/polls/config/AuditingConfig.java
